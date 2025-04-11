@@ -1,6 +1,10 @@
 # QARepository
 
+<<<<<<< HEAD
 Este repositorio contiene las pruebas automatizadas realizadas como parte de la Prueba Técnica. A continuación, se detalla la información sobre las herramientas utilizadas, las buenas prácticas implementadas, las prácticas desechadas, y cómo ejecutar las pruebas.
+=======
+Este repositorio contiene las pruebas automatizadas realizadas como parte de la Prueba Técnica, cuenta con una carpeta con imagenes de las pruebas, y un documento en la carpeta TestMatrix_DefectReport con la informacion correspondiente. A continuación, se detalla la información sobre las herramientas utilizadas, las buenas prácticas implementadas, las prácticas desechadas, y cómo ejecutar las pruebas.
+>>>>>>> fc81d5bc37e14305abbf4b8b9252430ee18c91da
 
 ## Herramientas Utilizadas
 
@@ -94,3 +98,7 @@ npm install
 - `geckodriver`
 - `newman` 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> fc81d5bc37e14305abbf4b8b9252430ee18c91da
