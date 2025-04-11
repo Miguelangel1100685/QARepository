@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "cypress": "^14.3.0",
+    "newman": "^6.2.1",
     "selenium-webdriver": "^4.31.0"
   },
   "scripts": {
